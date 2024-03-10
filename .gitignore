@@ -154,6 +154,11 @@ cython_debug/
 #Scripts
 script.py
 
-# Folders
+# Ignored Folders
+Plagiarism/
 Solution/ 
 OBE/
+Scripts/
+
+#Plagiarism
+jplag.jar
